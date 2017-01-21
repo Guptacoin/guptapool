@@ -1,7 +1,7 @@
-BTC Pool
+GuptaPool
 ==================
 
-BTCPool is backend system of [https://pool.btc.com](https://pool.btc.com).
+Guptapool is backend system of [https://pool.guptacoin.com](https://pool.guptacoin.com).
 
 Note: This is still a testbed and work in progress, all things could be changed.
 
